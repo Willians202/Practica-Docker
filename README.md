@@ -6,3 +6,5 @@ Christian Aquino 1099784
 Elias Ortega 1101970
 
 Willians Olaverria 1103245
+
+Utilizamos el proyecto de medio termino para realizar esta actividad
